@@ -1,7 +1,3 @@
-:root{
-    --font-family:Roboto,Helvetica Neue,Arial;      /*root and * for all*/
-  
-  }
   *{
     box-sizing: border-box;
     list-style-type: none;
